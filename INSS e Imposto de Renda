@@ -1,0 +1,60 @@
+#include <stdio.h>
+
+int main()
+{
+    float salarioBruto, inss, irrf, salarioLiq;
+    int numFuncionario;
+    
+    printf("Qual seu número de funcionário: \n");
+    scanf("%d", &numFuncionario);
+    
+    printf("Digite seu salário bruto: \n");
+    scanf("%f", &salarioBruto);
+    
+    if (salarioBruto <= 1399.12) {
+        inss = salarioBruto*0.08;
+        salarioLiq = salarioBruto - inss;
+    }
+    
+    else if (salarioBruto > 1399.12 && salarioBruto <= 2331.88) {
+        inss = salarioBruto*0.09;
+        salarioLiq = salarioBruto - inss;
+    }
+    
+    else if (salarioBruto > 2331.88 && salarioBruto <= 4663.75) {
+        inss = salarioBruto*0.11;
+        salarioLiq = salarioBruto - inss;
+    }
+    
+    else {
+        inss = salarioBruto - 513.02;
+        salarioLiq = salarioBruto - inss;
+    }
+    
+    if (salarioLiq <= 1903.98) {
+        irrf = 0;
+    }
+    
+    else if (salarioLiq > 1903.98 && salarioLiq <= 2826.65) {
+        irrf = salarioLiq*0.075;
+        salarioLiq = salarioLiq - irrf + 142.80;
+    }
+    
+    else if (salarioLiq > 2826.65 && salarioLiq <= 3751.05) {
+        irrf = salarioLiq*0.15;
+        salarioLiq = salarioLiq - irrf + 354.80;
+    }
+    
+    else if (salarioLiq > 3751.05 && salarioLiq <= 4664.68) {
+        irrf = salarioLiq*0.225;
+        salarioLiq = salarioLiq - irrf + 636.13;
+    }
+    
+    else {
+        irrf = salarioLiq*0.275;
+        salarioLiq = salarioLiq - irrf + 869.36;
+    }
+    
+    printf("\nNúmero do funcionário: %d\nSalário bruto: %.2f\n", numFuncionario, salarioBruto);
+    printf("INSS: %.2f\nIRRF: %.2f\nSalário Líquido: %.2f", inss, irrf, salarioLiq);
+}
