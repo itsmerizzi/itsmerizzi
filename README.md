@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @itsmerizzi
 - 👀 I’m studying Computer Science in college (first semester)
-- 🌱 My resume: 
 - 📫 How to reach me: augusto04rizzi@gmail.com
+- 🌱 My resume: file:///C:/Users/Dell/Downloads/Curr%C3%ADculo%20-%20Augusto%20Jos%C3%A9%20Rizzi.pdf
