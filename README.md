@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @itsmerizzi
-- 👀 I’m studying Computer Science in college (first semester)
+- 👀 I’m studying Software Analysis and Development
 - 📫 How to reach me: augusto04rizzi@gmail.com
 - 🌱 My resume: `wait`
