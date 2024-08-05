@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @itsmerizzi
 - 👀 I’m studying Software Analysis and Development
 - 📫 How to reach me: augusto04rizzi@gmail.com
-- 🌱 My resume: `wait`
