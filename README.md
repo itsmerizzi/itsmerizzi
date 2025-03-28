@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2019<br>💻 Two years of professional experience<br>📚 I'm currently learning Golang</p>
+<p align="left">✨ Coding since 2019<br>💻 Two years of professional experience</p>
 
 ###
 
