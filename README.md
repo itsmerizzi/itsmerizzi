@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Augusto and I'm a Fullstack Developer, from Brazil</p>
+<p align="left">My name is Augusto and I'm a Fullstack Developer from Brazil</p>
 
 ###
 
