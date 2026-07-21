@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/augusto-jos%C3%A9-rizzi-823699209/?locale=en_US" target="_blank">
+  <a href="https://www.linkedin.com/in/augustojoserizzi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
 </div>
