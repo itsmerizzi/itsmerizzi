@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2019<br>💻 Three years of professional experience</p>
+<p align="left">✨ Coding since 2019 in personal projects<br>💻 Four years of professional experience</p>
 
 ###
 
